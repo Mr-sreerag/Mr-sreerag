@@ -1,7 +1,7 @@
-- 👋 Hi, I’m sreerag.s
+- 👋 Hi, I’m Sreerag.s
 - 👀 I’m interested in designing and coding
-- 🌱 I’m currently persuing master degree in computer science
-- 📫 How to reach me through email(mrsreerag70@gmail.com)
+- 🌱 Currently persuing masters in computer science
+- 📫 Reach me through email(mrsreerag70@gmail.com)
 
 <!---
 Mr-sreerag/Mr-sreerag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

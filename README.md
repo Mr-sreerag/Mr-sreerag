@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sreerag.s
 - 👀 I’m interested in designing and coding
-- 🌱 Currently persuing masters in computer science
+- 🌱 Graduated masters in computer science
 - 📫 Reach me through email(mrsreerag70@gmail.com)
 
 <!---
